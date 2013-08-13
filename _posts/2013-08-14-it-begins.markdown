@@ -1,0 +1,65 @@
+---
+layout: post
+title: ...the blogging begins.
+category: meta
+---
+
+A couple of years after this whole blogging trend has been getting kinda stale,
+I decided that it was high time for me to begin blogging.
+
+Wait, why? Why should I? There are enough blogs already!
+
+Personal reasons, of course! Firstly, because I miss it. I used to write, and
+I used to write a lot. But, when I left a certain part of my internets life
+behind, the writing stopped. Writing gives memories and keeps me smart, so why
+would I not? Secondly, I believe that I can write interesting and intriguing
+things. I just need to exercise that to become better at it.
+
+---
+
+My problem regarding things like this has pretty much always been discipline.
+I am a procrastinator, and the more time passes, the worse I get. So, today
+I did something I usually advice against; I imposed a technical solution to
+a problem not of a technical nature. I actually blocked some sites from my
+computer. So now, I cannot access [Facebook][fb], [Hacker News][hn],
+[Twitter][tw], [imgur][imgur] or [4chan][4chan]. They are redirected to a black
+hole.
+
+I chose to still be able to access them from my phone, which means I can still
+procrastinate while I'm on the move, aka on the commuter trains. I am just so
+fed up by the fact that I can sum up most of my days with "I spent the day
+refreshing websites hoping that something that could change my life would pop
+up. It did not."
+
+I quickly noted that I had some kind of urge to check some of them out. Just
+a quick check. The realization of this saddened me and gave me a very late
+insight into how compulsively I am a slave to the content of the internets.
+It's like those people that are addicted to MMORPGS, but tragic in a different
+way. It's time to break free of that. I literally have a thousand better
+things to do!
+
+Oh, and worth noting is that I will be available as usual on the Facebook
+chat. I'm cutting my procrastination, not my connections with my friends.
+
+---
+
+So, I will try to regularly write about stuff that intrigues, perplexes and/or
+amazes me. That means that I will write of thoughts and ideas, of actual
+adventures, of nerdy shit I do with my computer, and maybe (just maybe) the
+occasional piece of creative writing.
+
+---
+
+So, if this just turns out to be one of these blogs that only has the one "I
+should start blogging! :)" post, remind me that I should be better than that.
+Also remind me that I should write more cheerful blog posts, since this is
+a pretty somber start of what is going to be an awesome adventure of writing.
+
+&lt;3
+
+
+[fb]: http://facebook.com
+[hn]: http://news.ycombinator.com
+[tw]: http://twitter.com
+[imgur]: http://imgur.com
+[4chan]: http://4chan.org
