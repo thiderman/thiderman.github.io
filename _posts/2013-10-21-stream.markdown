@@ -1,0 +1,98 @@
+---
+layout: post
+title: A Stream of Thoughts
+category: post
+---
+
+Onoes! The **New Blog Syndrome** struck again! A month has passed without me
+updating.  Cue the obligatory post about why this is happening! This post is
+also a random collection of thoughts of things going on right now. Because of
+reasons.
+
+---
+
+I've been out sick pretty much half of October. I don't recommend it. I was one
+of the first to fall in the recent wave of late-fall colds, and in true
+man-with-a-cold fashion, I was practically entirely non-functional for the
+entire duration of my sickness. And of course, I returned to work too early,
+and I went bad once again and prolonged my sickness for another week.
+
+2/10 should not do again
+
+---
+
+Whilst not sick, I've met some new people. Two of them, separately and on
+different occasions, asked me what country I was from! They could not believe
+I was from Sweden because I have such a heavy English accent and mix so much
+English into my casual speech. It's actually difficult for me to put down into
+words how happy this makes me, but it do. I am very glad that I get to spend
+my days speaking English, and I have noted that every now and again, we
+converse in English in the apartment as well. Happi tears. &lt;3
+
+---
+
+Anyway, while I was out cold (hehe) I decided to revamp my life a bit. I read
+[a very interesting blog post][177] about a guy that made at least one
+contribution to GitHub every day for almost half a year, pretty much solely by
+riding on the powers of habits. Since I am one of the least habitual people on
+the planet, I decided to try this and see if it would improve my habits.
+
+So far, I've been doing it for 21 days (I started October 1st, so it's pretty
+easy to remember). Thus far, it feels great! I am now everyday making the
+concious decision of not procrastinating and rather creating something. Not
+everything is a patch to a great and awesome Open Source project; updates to my
+own projects, configurations, and this very blog will count; but at least I am
+doing something every day.
+
+---
+
+Now that I have something that I do every day, I've scaled back on some other
+things I've been doing a lot; watching TV series. The fall season started
+recently, and some of my favorite series have begun airing new seasons.
+American Dad, Family Guy, How I Met Your Mother, Walking Dead, Elementary,
+Criminal Minds, etc. I feel like it is almost too many to count. So, I dropped
+all of them but one.
+
+I'd love to watch every one of them, but I did a very short calculation about
+how many hours of my life I've spent watching these and other shows, and the
+result was... depressing to say the least. I'd so much rather create and code,
+since creating and coding always leaves me with a feeling of satisfaction.
+
+---
+
+One of the things giving me satisfaction right now is my insanely retarded
+[doge][doge] project. I started it as part of my contribution streak, and I've
+been patching it pretty much every day since. At first the response of it was
+kind of lukewarm. Some people found it kind of giggly, but not much more than
+that. Then, this Saturday evening, it went viral on Twitter or something.
+I actually still don't know what happened, but suddenly the [Stars on
+GitHub][stars] tripled (and landed on 100 whilst writing this!), [downloads on
+PyPi][pypi] increased by over 2000, and I got multiple [pull requests][pr].
+
+I was at a party during the time all of this happened, so I had no idea. When
+I woke up on Sunday morning with a giant hangover, I had more action on my
+GitHub then I've ever had. With the biggest smile on my face, I sat and merged
+commits others had written for my project, and I felt the glimmering shine of
+actual Open Source streaming out from my laptop screen. It made me genuinely
+happy, and I am still riding the good feels from it.
+
+I noted that some of the people that starred the project and interacted on the
+pull requests are people from the community that I know and respect. This makes
+the fangirl in me squee my pants so hard it's silly. &lt;3
+
+---
+
+So all in all, even though I've been home sick for the better part of this
+month, it's been a really good one. Another!
+
+---
+
+And yes, the title of this blog post will indeed be the title to the 9th book
+in the Game of Thrones series.
+
+
+[177]: https://ryanseys.com/blog/177-days-of-github/
+[doge]: https://github.com/thiderman/doge
+[stars]: https://github.com/thiderman/doge/stargazers
+[pypi]: https://pypi.python.org/pypi/doge/
+[pr]: https://github.com/thiderman/doge/issues?page=1&state=closed
