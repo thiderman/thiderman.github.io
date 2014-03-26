@@ -1,0 +1,53 @@
+---
+layout: post
+title: 177 days of GitHub
+category: post
+---
+
+177 days ago I read [a blog post about 177 days of GitHub][177]. 177 days
+later, I am at my [177th day of GitHub contributions][thiderman]! The
+apprentice is now at the same level as the master, and as it seems I will
+surpass him and carry his legacy forward!
+
+It has been very interesting, and I've learned a lot about myself over the past
+six months, especially about my habits. I'm very proud over the fact that
+I have been doing this over almost half a year now. Granted, some days have
+been less effective and meaningful, but I've still always managed to do it.
+
+The only time I've actually employed trickery was when GitHub [changed the
+rules about timezones][change]. Before this change, contributions ran on PST
+(San Francisco time), meaning that my contribution window for a certain date
+was 9:00AM - 9:00AM. One day not long ago, I was coding a bit just before
+midnight. Before committing, I got a phone call. That call lasted a bit more
+than an hour, so when it was done and I committed and pushed, my heart stopped.
+My streak was dead. I calmly panicked and tried to figure out what happened.
+When I found the blog post linked above, I decided that GitHub changed the
+rules without me really knowing it, so I tricked the commit back into the
+streak. Not the proudest moment, but hey.
+
+---
+
+Unfortunately, sometimes life comes in the way. Today was such a day. For more
+than the last 24 hours, the systems I work with have been having... troubles.
+Of course, this being the week when I am in a temporary leadership position,
+this led to me being the one responsible of coordinating efforts to fix
+everything that's broken. This is, as one can imagine, exhausting. Especially
+if it drags on to the point where you need a lot of overtime. As such, my
+contributions for today have been weak, but I have done them. And that's
+a success to me, since I am at the point where I am almost amazed at the fact
+that I can keyboard coherently.
+
+So, all in all, I've become a better person since I now have at least a slight
+sense of discipline, and I've contributed back to the world that enables me to
+be them powerhouse of a hax0r I am today. 177 days, roughly ~900 commits, over
+30 projects contributed to, and countless hours of awesome coding fun times!
+It's a win-win, it feels awesome, and I hope that I will continue doing it for
+way more than 177 more days!
+
+And to that note, I will now collapse in the most collapsing way anything has
+collapsed in quite a while. Bonne nuit.
+
+
+[177]: https://ryanseys.com/blog/177-days-of-github/
+[thiderman]: https://github.com/thiderman
+[change]: https://github.com/blog/1793-timezone-aware-contribution-graphs
