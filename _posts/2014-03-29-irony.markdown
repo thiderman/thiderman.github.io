@@ -1,0 +1,52 @@
+---
+layout: post
+title: Irony
+category: post
+---
+
+I love irony. Always have, always will. It's by far my favorite type of humour,
+partly because it's smart but isn't necessarily pretentious; it requires some
+intelligence to understand, but can still be applied on most things. I even
+once started a community group for ironists, but after the five first joiners
+thought sarcasm was irony I closed it down. Think about that for a second.
+
+---
+
+Irony is also constantly present in my life. Three days ago I [posted about how
+proud I was over my contribution streak][177] being longer than the guy that
+inspired me to do it. Not 48 hours later, I failed it. Yesterday marks the
+first day in 179 days in which I did not contribute to the world of Open Source
+software.
+
+I never touched my computer during the work day because of meetings, and after
+work I went straight to my friend Johanna. She had been in Thailand for
+6 months, so I was very eager to meet her. After huggings and talkings for
+a while, I decided to leave. The original plan was to go home, but I felt like
+socializing a bit more with friends, so I gathered a gang and went for a couple
+of beers at this new place on Fridhemsplan.
+
+It wasn't until I was waiting for the bus home at 03:00 that a punch of
+darkness hit my stomach. I had missed the entire window for contributing on
+March 28th. When I got home, still drunk me thought a slight slip-up was fine
+and faked a commit and went to bed. Ironically enough, sober me disagrees and
+thinks that the attempt to save the streak is a sign that it's time to stop it.
+Therefore, I am now calling quits on my first round of GitHub contributions.
+Today I will not commit anything, effectively resetting my streak.
+
+I will definitely do another one, but I will wait a month. During April, I want
+to see how my routine and behaviour will be if I don't have the streak to think
+of. I want to measure how much I will do without it.
+
+---
+
+So, today is a bit of a sad day, but not really. It was a fun experiment, and
+I will always relish the fact that once I was proud and said I beat the 177
+days, I borked it, haha. I'll still continue to contribute as much as I can,
+I'll just have to revise my method. I'll probably start again in May or so,
+because this was fun and made me better.
+
+Now I just need to figure out what to do today since I am not to code. Movie
+night perhaps? &lt;'3
+
+
+[177]: http://thiderman.org/posts/177/
