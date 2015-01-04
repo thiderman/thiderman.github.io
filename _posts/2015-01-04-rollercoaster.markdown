@@ -26,6 +26,8 @@ the room. I did meet some interesting people, like the dude that made
 [grml][grml] and had some good beers and foods!
 
 ![Drugs means something else, probably. We just had food.](http://i.imgur.com/JYnfN2U.jpg "Belgium is weird.")
+##### Belgium is weird.
+
 
 Oh, and I had a really nice talk with a guy that was a
 [serious tinfoil][tinfoil]. I love talking to people that genuinely seem to
@@ -68,6 +70,7 @@ we are, it took a full three minutes before we had turned the game into
 a drinking game.
 
 ![Responsible Adults Inc.](http://i.imgur.com/cFxXQf1.jpg "And it was beautiful.")
+##### And it was beautiful.
 
 The game is simple; whenever you make a mistake and lose a point in the game,
 usually because you accidentally killed yourself, you take a shot. When you do,
@@ -89,6 +92,7 @@ tournaments and we held the sixth edition, Drunken TowerFall VI:
 will see the light of Drunken TowerFall VII: [Circle of Freaks][nine-nine]!
 
 ![Victory or Death!](http://i.imgur.com/kKDVxok.jpg "Drunken TowerFall V: Dawn On East Mountain in action")
+##### Drunken TowerFall V: Dawn On East Mountain in action
 
 I am very proud of this and I am very happy whenever we organize it. It's
 awesome to see so many friends so excited and to hear the roars of the audience
@@ -116,6 +120,7 @@ shows. Also, the nature outside of the city looks like something out of a video
 game:
 
 ![A tiny land](http://i.imgur.com/2vpqX0l.jpg "Switzerland or Skyrim? Who can tell?")
+##### Switzerland or Skyrim? Who can tell?
 
 I also got to experience [Raclette][raclette] for the first (and still only)
 time. Damn that shit is cool. Oh, and her father had some studio space with two
@@ -144,6 +149,7 @@ Now, most people know that I really enjoy coding and creating stuff, so it
 didn't take me long to actually create an app for this:
 
 ![MovieNight S02E07](http://i.imgur.com/XDek7i4.png "MovieNight in all its glory")
+##### MovieNight in all its glory
 
 The app lets users collect movies they would like to watch. After we have
 watched a movie, we click the "Roll next" button and the app does a roulette
@@ -157,6 +163,7 @@ a tribe, but there is probably an actual tribe feeling around us now. I mean,
 look at our Christmas dinner:
 
 ![Face sticking out, represent!](http://i.imgur.com/dJaiXwf.jpg "It looks like I'm photobombing but I swear I am part of the group!")
+##### It looks like I'm photobombing but I swear I am part of the group!
 
 Love all of yous. &lt;3
 
@@ -243,6 +250,7 @@ bars and the like. I even joked that I'll get laid pretty much directly after
 cutting my hair off.
 
 ![A wild new hair appears](http://i.imgur.com/4E2h7yo.jpg "Pic taken by haidresser when I was done. Never shared before since I didn't really like it too much. Shared here for its historical value and magic.")
+##### Pic taken by haidresser when I was done. Never shared before since I didn't really like it too much. Shared here for its historical value and magic.
 
 Luckily, I loved my new haircut. It was weird in the beginning, mostly since my
 face looked a bit different given its new frame. I also struggled with some
@@ -310,6 +318,7 @@ I've been doing a lot of working out in 2014. Mostly I've been doing cardio
 at the gym and I've been documenting the results as I went:
 
 ![Bikes, sweat and tears](http://i.imgur.com/vHxgYB8.jpg "Personal best on bike: 15km in less than 29 minutes!")
+##### Personal best on bike: 15km in less than 29 minutes!
 
 Over the year, I did cardio workouts 74 times. During these times, I was in
 constant motion for a total of 41 hours, 9 minutes and 19 seconds; I traveled
@@ -321,6 +330,7 @@ snapped. No citation needed here! (I did however estimate the times of the
 pictures where the total time was not visible.)
 
 ![Suddenly the mirror is your best friend](http://i.imgur.com/G5UMrL1.jpg "#beastmode")
+##### #beastmode
 
 
 Everything in your life gets better when you lose weight, especially sex. Gods
@@ -330,6 +340,7 @@ charity since most of it was many sizes to big and made me look or feel like
 a fat clown:
 
 ![Nothing more liberating](http://i.imgur.com/4rpUJ1J.jpg "Begone, overly large items of clothing")
+##### Begone, overly large items of clothing
 
 There is really only one drawback. If I do any kind of minor physical activity,
 like running 10 meters to get to the subway that's about to leave, my body
@@ -362,6 +373,7 @@ Since no one else bid, I won by default for the asking price. On October 24th
 I signed the contracts, paid the monies, and got the keys to the apartment.
 
 ![Quite possibly my favorite picture of me](http://i.imgur.com/V3JjaAD.jpg "And what a feeling it was.")
+##### And what a feeling it was.
 
 The apartment is 75 square meters and is located on the top floor of a building
 on top of a hill. We can basically see all of southern Stockholm from here.
@@ -377,6 +389,7 @@ business relations internationally. So, for two weeks in November I was sent to
 the American offices of Spotify!
 
 ![New York, New York!](http://i.imgur.com/OYc2cqq.jpg "It's so oddly beautifully broken.")
+##### It's so oddly beautifully broken.
 
 I have no extraordinary events to report from there actually, but I did realize
 something when I was there; I need to live in a culture that is not Swedish for
@@ -397,6 +410,7 @@ of the closest lovelies. However, Sam got very excited and started inviting
 people left and right, and suddenly:
 
 ![A wild crowd appears!](http://i.imgur.com/Ba36d7m.jpg "Not sure what I was expecting other than this, really...")
+##### Not sure what I was expecting other than this, really...
 
 Notable events happening:
 
@@ -412,6 +426,7 @@ Notable events happening:
   exciting and cheering. :D
 
 ![Life of the party!](http://i.imgur.com/bub6H2R.jpg "ARE YOU NOT ENTERTAINED?")
+##### ARE YOU NOT ENTERTAINED?
 
 According to multiple witnesses, basically no one knew what I was on about
 during the last one, but it was exciting and fun!
@@ -430,6 +445,7 @@ goals set. So, my ideas for 2015 are as follows:
 * Lose another 14kg (or more).
 * Start dancing at least two different kinds of dance.
 * Put a quarter of what I make into savings.
+* Learn at least one new programming language, probably Go.
 * Start making paintings again.
 
 All of these are obtainable and fairly easy to measure success of. Now all
@@ -438,7 +454,8 @@ a year.
 
 ---
 
-All in all, I'm glad everything happens so much. &lt;3
+All in all, I'm glad everything happens so much. Thanks for being a part of it.
+&lt;3
 
 
 
