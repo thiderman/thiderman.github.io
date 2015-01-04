@@ -105,6 +105,8 @@ a {
     font-size: 25px;
     padding-bottom: 5px;
     margin-bottom: 10px; }
+  .content h5 {
+    text-align: center; }
   .content p {
     font-size: 16px;
     margin-top: 0;
