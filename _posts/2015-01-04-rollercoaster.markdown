@@ -7,8 +7,7 @@ category: post personal recap
 Like [last year][last] this is a [pretty long post][understatement]. It details
 what happened to me over the past year.
 
-I won't do a tl;dr this time, but feel free to skim the headlines and pictures
-if you are intimidated by lots of awesome text!
+This year had a some downs, but it luckily also had a lot of ups.
 
 ---
 
@@ -36,7 +35,7 @@ believe that the world is led by lizards in black helicopters!
 All in all it was nice, and I needed to travel a bit. I'm not sure if I'll
 return to FOSDEM next year since it seems to require a ton of planning and
 camping to be able to attend the really cool talks. However, since it is a free
-conference and you can drink Belgian beer on tap, there is quite a change that
+conference and you can drink Belgian beer on tap, there is quite a chance that
 I will anyway! :&gt;
 
 ---
@@ -54,7 +53,7 @@ doing something creative", and suddenly I got a shitload of things done.
 Unfortunately, this was also disrupted when I moved into my new apartment.
 
 Overall, I'm pretty happy with the streaks I've done and that I challenged
-myself to see what I could do with habits. I've concluded that habits to help,
+myself to see what I could do with habits. I've concluded that habits do help,
 but one should not be too strict on to follow them. Life is pretty chaotic
 after all.
 
@@ -99,9 +98,9 @@ awesome to see so many friends so excited and to hear the roars of the audience
 when interesting and beautiful things happen. The only thing that I don't like
 is that I have yet to win any of the tournaments. I've been in the final every
 time, but I always fall short in the finishing line. Not only that, but the
-last three times (!) I've come second with *one point*
-To get an idea of my pain, watch [the video][vi] from the final round of the
-last tournament. If it is not obvious, [the screams of agony][bigno] are mine.
+last three times (!) I've come second with *one point*! To get an idea of my
+pain, watch [the video][vi] from the final round of the last tournament. If it
+is not obvious, [the screams of agony][bigno] are mine.
 
 It's a good thing that pain is a very good motivator. Victory shall be mine!
 
@@ -123,8 +122,8 @@ game:
 ##### Switzerland or Skyrim? Who can tell?
 
 I also got to experience [Raclette][raclette] for the first (and still only)
-time. Damn that shit is cool. Oh, and her father had some studio space with two
-drum sets, so he and I had a my first (and still only) drum-off!
+time. Damn that shit is cool. Oh, and Francesca's father had some studio space
+with two drum sets, so he and I had a my first (and still only) drum-off!
 
 It's difficult to describe this country in a way that gives it justice, but it
 definitely gets my recommendation of something that should be seen at least
@@ -191,7 +190,7 @@ It's not that I did something wrong or bad, it's just that it does not feel
 good at all to not be able to recall multiple days of what's supposed to be
 a good time. When I got home I was depressed, and luckily I had the rest of my
 vacation to actually sort that out. I had like a week of bad sleep and feeling
-horrible until I got out of it. Doing cardio helped a lot; getting endorphines
+horrible until I got out of it. Doing cardio helped a lot; getting endorphins
 in your system is vital when you need to get out of a bad place.
 
 Browalla 2015 will be different. It's good that I learn from my mistakes.
@@ -250,7 +249,7 @@ bars and the like. I even joked that I'll get laid pretty much directly after
 cutting my hair off.
 
 ![A wild new hair appears](http://i.imgur.com/4E2h7yo.jpg "Pic taken by haidresser when I was done. Never shared before since I didn't really like it too much. Shared here for its historical value and magic.")
-##### Pic taken by haidresser when I was done. Never shared before since I didn't really like it too much. Shared here for its historical value and magic.
+##### Pic by hairdresser when I was done. Never shared it since I didn't really like it. Shared here for its historical value and magic.
 
 Luckily, I loved my new haircut. It was weird in the beginning, mostly since my
 face looked a bit different given its new frame. I also struggled with some
@@ -302,7 +301,7 @@ However, both of us were kind of on the way out. I was looking at apartments
 to buy, and Li was looking to exchange the apartment with something smaller
 that she could live in alone. So, finding someone new to live with us was
 difficult: -"*Yeah, we need someone that can stay with us for like a month or
-maybe to because we're both moving out soon hehe.*"
+maybe two because we're both moving out soon hehe.*"
 
 Understandably, no one was super excited about that. So, when I talked to Sam,
 I offered that wherever I would move when I moved out, he would come with. He
@@ -339,8 +338,8 @@ stamina! Oh, and this meant I could donate two thirds of my wardrobe to
 charity since most of it was many sizes to big and made me look or feel like
 a fat clown:
 
-![Nothing more liberating](http://i.imgur.com/4rpUJ1J.jpg "Begone, overly large items of clothing")
-##### Begone, overly large items of clothing
+![Nothing more liberating](http://i.imgur.com/4rpUJ1J.jpg "Begone, overly large items of clothing!")
+##### Begone, overly large items of clothing!
 
 There is really only one drawback. If I do any kind of minor physical activity,
 like running 10 meters to get to the subway that's about to leave, my body
@@ -365,7 +364,7 @@ I saw it again, but then the showing was open.
 
 We (Sam, Nikki and I) were the only couple at the showing. I signed up for the
 bidding, and I was the only one bidding. This is weird, but apparently they had
-tried to sell the place twice, but it feel through. It's hard to re-put
+tried to sell the place twice, but it fell through. It's hard to re-put
 a listing without buyers becoming suspicious, so there was a falloff for each
 failing sale.
 
@@ -384,9 +383,9 @@ This is a place I will own for quite a while. &lt;3
 
 ## I go to the USA
 
-Another fun thing about being a Product Owner is that you sometimes have
-business relations internationally. So, for two weeks in November I was sent to
-the American offices of Spotify!
+Just going to Belgium or Switzerland was not enough! A fun thing about being
+a Product Owner is that you sometimes have business relations internationally.
+So, for two weeks in November I was sent to the American offices of Spotify!
 
 ![New York, New York!](http://i.imgur.com/OYc2cqq.jpg "It's so oddly beautifully broken.")
 ##### It's so oddly beautifully broken.
@@ -416,7 +415,8 @@ Notable events happening:
 
 * Everyone was looking forward to seeing the entire Stockholm sky light up with
   fireworks. Come midnight there is a fog that quickly turned into smog from
-  smoke from all the fireworks. We saw pretty much nothing.
+  smoke from all the fireworks. We barely saw the fireworks people shot next
+  door.
 * My cell phone got to see a whole of two minutes of the new year before
   I dropped it on the floor and cracked the screen.
 * I got to stand on the table and [address the entire party][rousing] three
@@ -425,11 +425,11 @@ Notable events happening:
   finally just because I was drunk and I like the rush of getting people
   exciting and cheering. :D
 
-![Life of the party!](http://i.imgur.com/bub6H2R.jpg "ARE YOU NOT ENTERTAINED?")
-##### ARE YOU NOT ENTERTAINED?
+![Life of the party!](http://i.imgur.com/bub6H2R.jpg "Life of the party!")
+##### Life of the party!
 
 According to multiple witnesses, basically no one knew what I was on about
-during the last one, but it was exciting and fun!
+during the last one, but it was exciting and fun, haha!
 
 ---
 
@@ -454,7 +454,8 @@ a year.
 
 ---
 
-All in all, I'm glad everything happens so much. Thanks for being a part of it.
+All in all, I'm glad everything happens so much even though it sometimes takes
+a toll. Thanks for being a part of it and making it worthwhile.
 &lt;3
 
 
