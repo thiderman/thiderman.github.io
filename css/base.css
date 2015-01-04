@@ -106,6 +106,9 @@ a {
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content h5 {
+    font-size: 15px;
+    margin-top: -20px;
+    font-weight: normal;
     text-align: center; }
   .content p {
     font-size: 16px;
