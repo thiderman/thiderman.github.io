@@ -7,7 +7,10 @@ category: post personal recap
 Like [last year][last] this is a [pretty long post][understatement]. It details
 what happened to me over the past year.
 
-This year had a some downs, but it luckily also had a lot of ups.
+This year had some downs, but luckily it also had a lot of ups. In the end
+I definitely came out on top, even though it looked bleak for a while!
+
+Let's see what happened:
 
 ---
 
@@ -60,12 +63,12 @@ after all.
 ## Drunken TowerFall becomes a thing
 
 Last Christmas, we didn't give each other our hearts. We had the very first
-showdown of what would become Drunken TowerFall. Now, [TowerFall][towerfall] is
+showdown of what would become Drunken TowerFall! Now, [TowerFall][towerfall] is
 a beautiful little retro game for the [Ouya][ouya] in which players pit against
 each other in an archery fight to the death. Late last Christmas Eve, Sam, Dala
-and I were done with all our Christmas events and families and presents. We sat
-down to play a bit of TowerFall to relax. Being the sane and responsible adults
-we are, it took a full three minutes before we had turned the game into
+and I were done with all our Christmas events and families and presents so we
+sat down to play a bit of TowerFall to relax. Being the sane and responsible
+adults we are, it took a full three minutes before we had turned the game into
 a drinking game.
 
 ![Responsible Adults Inc.](http://i.imgur.com/cFxXQf1.jpg "And it was beautiful.")
@@ -77,15 +80,15 @@ you refill the shot glass. As such, you have some control - if you suspect that
 you might get a shot again, you can fill a little and vice versa.
 
 We immediately realized the hilarity potential in this. Our first idea was to
-conceptualize this and make a YouTube and become internets famous. In our
-drunken haze we forgot that we are supremely lazy and that making things
+conceptualize this and make a YouTube channel and become internets famous. In
+our drunken haze we forgot that we are supremely lazy and that making things
 requires effort, so this unfortunately has yet to happen.
 
 However, we decided to make it a tournament instead. We invited some friends,
 and in April the second tournament, Drunken TowerFall II: [The
 Quickening][quickening], was held. We noticed that the game is very easy to
 learn and reasonably easy to master. As such, our very first Champion had never
-played the game before he took the throne. We have continued to hold
+played the game before the night he took the throne. We have continued to hold
 tournaments and we held the sixth edition, Drunken TowerFall VI:
 [Captain Ramirez'][catta] [Revenge][morgan], in the middle of December. January
 will see the light of Drunken TowerFall VII: [Circle of Freaks][nine-nine]!
@@ -96,8 +99,8 @@ will see the light of Drunken TowerFall VII: [Circle of Freaks][nine-nine]!
 I am very proud of this and I am very happy whenever we organize it. It's
 awesome to see so many friends so excited and to hear the roars of the audience
 when interesting and beautiful things happen. The only thing that I don't like
-is that I have yet to win any of the tournaments. I've been in the final every
-time, but I always fall short in the finishing line. Not only that, but the
+is that I have yet to win any of the tournaments! I've been in the final every
+time, but I always fall short in the finishing line! Not only that, but the
 last three times (!) I've come second with *one point*! To get an idea of my
 pain, watch [the video][vi] from the final round of the last tournament. If it
 is not obvious, [the screams of agony][bigno] are mine.
@@ -113,17 +116,17 @@ visit my good friend Francesca! She showed me around the nice little town of
 Lausanne. I got to see the cathedral and we took some very nice long walks
 along the shoreside of Lake Geneva.
 
-I constantly reflected on how very quirky and tiny everything is in the town..
+I constantly reflected on how very quirky and tiny everything is in the town;
 They've basically crammed in a large city on the slope of a mountain, and it
 shows. Also, the nature outside of the city looks like something out of a video
 game:
 
-![A tiny land](http://i.imgur.com/2vpqX0l.jpg "Switzerland or Skyrim? Who can tell?")
-##### Switzerland or Skyrim? Who can tell?
+![A tiny land](http://i.imgur.com/2vpqX0l.jpg "Switzerland or Skyrim? I think no one can tell.")
+##### Switzerland or Skyrim? I think no one can tell.
 
 I also got to experience [Raclette][raclette] for the first (and still only)
-time. Damn that shit is cool. Oh, and Francesca's father had some studio space
-with two drum sets, so he and I had a my first (and still only) drum-off!
+time. Damn that shit is tasty. Oh, and Francesca's father had some studio space
+with two drum sets, so he and I had my first (and still only) drum-off!
 
 It's difficult to describe this country in a way that gives it justice, but it
 definitely gets my recommendation of something that should be seen at least
@@ -139,10 +142,10 @@ course to watch it together! When the fourth season came around, we all
 gathered every Tuesday (we couldn't Monday because Sam is an ass and works
 night shifts then) and watched it together.
 
-Unfortunately, like most good things the new episodes were over before we
-realized it. We had all really come to like the idea of gathering during the
-week to hang out, have a glass of wine and watch something. So, we decided to
-have Movie Nights!
+Unfortunately, like most good things the new episodes were over way too soon.
+We had all really come to like the idea of gathering during the week to hang
+out, have a glass of wine and watch something. So, we decided to have Movie
+Nights!
 
 Now, most people know that I really enjoy coding and creating stuff, so it
 didn't take me long to actually create an app for this:
@@ -153,12 +156,12 @@ didn't take me long to actually create an app for this:
 The app lets users collect movies they would like to watch. After we have
 watched a movie, we click the "Roll next" button and the app does a roulette
 animation and lands on a randomized movie. Everyone gets one movie per season,
-and once every movie has been seen it creates a new season. We are currently on
-S02E07!
+and once everyone has had their movie the app creates a new season. We are
+currently on S02E08!
 
 Now, the gang we hang out with were good friends before we started doing this,
 but having this solidified us as a group. I first only jokingly called us
-a tribe, but there is probably an actual tribe feeling around us now. I mean,
+a tribe, but there is probably an actual tribe feeling around us now! I mean,
 look at our Christmas dinner:
 
 ![Face sticking out, represent!](http://i.imgur.com/dJaiXwf.jpg "It looks like I'm photobombing but I swear I am part of the group!")
@@ -171,7 +174,7 @@ Love all of yous. &lt;3
 ## I fuck up Bråvalla
 
 Browalla Festival is a special thing. The festival is hosted in my home town
-very close to the house my family lives in. As such, we gather friends and let
+very close to a house my family lives in. As such, we gather friends and let
 them camp out in our yard for the duration of the festival. This is awesome,
 but unfortunately this year was not so very awesome for me.
 
@@ -181,10 +184,13 @@ process it. As a fairly sad man with almost infinite access to alcohol and
 party, I reacted as one would suspect a fairly sad man with almost infinite
 access to alcohol and party would.
 
+![Browalla](http://i.imgur.com/QVXLW8g.jpg "We could've easily added more!")
+##### We could've easily added more!
+
 Now, I usually get some gaps in my memory when I drink. It's not my favorite,
 but it's manageable. However, most of the entire festival is either blank or
 a blur for me. I only recall three of the bands I saw, and I can't even seem to
-recall the rain everyone was complaining so much about.
+recall the rain everyone was complaining so much about, heh.
 
 It's not that I did something wrong or bad, it's just that it does not feel
 good at all to not be able to recall multiple days of what's supposed to be
@@ -200,8 +206,8 @@ Browalla 2015 will be different. It's good that I learn from my mistakes.
 ## I reconnect with Sandra
 
 Last year I broke contact with Sandra completely. Radio silence style. Late
-during this summer one of us reached out (I don't actually remember who;
-doesn't matter) and we met to have a beer at the local vattenhål. I had a very
+during this summer one of us reached out (I don't actually remember who; and it
+does not matter) and we met to have a beer at the local vattenhål. I had a very
 nice time, and we caught up over what had happened over the past year when we
 had no contact.
 
@@ -217,7 +223,7 @@ It also helps to have several years of in-jokes and the like, haha.
 
 As I wrote in last years post I was not very happy with the way things ended.
 I am however very happy that that ending ended and we're friends again. Friends
-are better than not friends. &lt;3
+are always better than not friends. &lt;3
 
 ---
 
@@ -231,9 +237,9 @@ They all had pretty big significances. They were as follows:
 
 After fourteen consecutive years of having long hair, it was the time to end
 that era. Quite frankly, I had grown a bit tired of it. I also realized a bit
-of hypocrisy on my side. If a friend asks me if they should change something
-with their hair, I always tell them that change is the best thing there is;
-I always prompt for the radical fun thing. Yet, there I was and I had done
+of hypocrisy on my side. If a friend asked me if they should change something
+with their hair, I would always tell them that change is the best thing there
+is; I always prompt for the radical fun thing. Yet, there I was and I had done
 nothing special with my hair for more than half of my life.
 
 It was a bit more of a difficult decision than I had thought. For one thing,
@@ -248,8 +254,8 @@ noticed a general different direction when approaching the opposite gender in
 bars and the like. I even joked that I'll get laid pretty much directly after
 cutting my hair off.
 
-![A wild new hair appears](http://i.imgur.com/4E2h7yo.jpg "Pic taken by haidresser when I was done. Never shared before since I didn't really like it too much. Shared here for its historical value and magic.")
-##### Pic by hairdresser when I was done. Never shared it since I didn't really like it. Shared here for its historical value and magic.
+![A wild new hair appears](http://i.imgur.com/4E2h7yo.jpg "First pic of short hair! I chose another since I didn't really like this one. Shared here for its historical value and magic.")
+##### First pic of short hair! I chose another since I didn't really like this one. Shared here for its historical value and magic.
 
 Luckily, I loved my new haircut. It was weird in the beginning, mostly since my
 face looked a bit different given its new frame. I also struggled with some
@@ -257,17 +263,18 @@ muscle memory things, like not feeling hair on my shoulders when entering the
 shower or going to bed and then automatically reaching to untie my hairband to
 let my locks down, haha.
 
-Either way, I felt super handsome and found myself constantly checking myself
-out in any reflective surface I could find. Change is the only constant, and
-I have not regretted my decision for a single second.
+Either way, I felt super handsome and found myself
+[constantly checking myself out][reflect] in any reflective surface I could
+find. Change is the only constant, and I have not regretted my decision for
+a single second.
 
 Oh, and the getting laid part? Didn't even take a week. :&gt;
 
 ### I become a Product Owner
 
-On the same day, August 4th, I start as a new role for my team; the product
-owner. For those not in the cray-cray industry we are in, the Product Owner
-(PO) is the person responsible for three things:
+On the same day as I cut my hair, August 4th, I start as a new role for my
+team; the Product Owner. For those not in the cray-cray industry we are in, the
+Product Owner (PO) is the person responsible for three things:
 
 * A vision for what the team should build and where it should end up
 * Help the team organize what to do and when
@@ -319,10 +326,12 @@ at the gym and I've been documenting the results as I went:
 ![Bikes, sweat and tears](http://i.imgur.com/vHxgYB8.jpg "Personal best on bike: 15km in less than 29 minutes!")
 ##### Personal best on bike: 15km in less than 29 minutes!
 
-Over the year, I did cardio workouts 74 times. During these times, I was in
-constant motion for a total of 41 hours, 9 minutes and 19 seconds; I traveled
-557 kilometers and 509 meters, and I burned a total of 39920 calories. During
-this, I lost a total of 14 kilos, moving from 112 to 98.
+Over the year, I did cardio workouts **74** times. During these times, I was in
+constant motion for a total of **41 hours, 9 minutes and 19 seconds**;
+I traveled **557 kilometers and 509 meters**, and I burned a total of **39920
+calories**! During this, I lost a total of **14 kilos**, moving from 112 to 98!
+
+Woooooohooooo! |o/
 
 I've also added a [Google Plus album][cardiocrush] with the pictures I've
 snapped. No citation needed here! (I did however estimate the times of the
@@ -330,7 +339,6 @@ pictures where the total time was not visible.)
 
 ![Suddenly the mirror is your best friend](http://i.imgur.com/G5UMrL1.jpg "#beastmode")
 ##### #beastmode
-
 
 Everything in your life gets better when you lose weight, especially sex. Gods
 damnit does that improve by a million when you reduce body mass and increase
@@ -343,9 +351,10 @@ a fat clown:
 
 There is really only one drawback. If I do any kind of minor physical activity,
 like running 10 meters to get to the subway that's about to leave, my body
-instantly thinks "oh, you're doing that workout thing again" and then I start
-sweating like a fully dressed Eskimo running a marathon in the desert. I start
-sweating for *everything*. But hey, I can pay that price any day, haha!
+instantly thinks "*oh, you're doing that workout thing again, ok*" and then
+I start sweating like a fully dressed Eskimo running a marathon in the desert.
+I start sweating like that for *everything*. But hey, I can pay that price any
+day, haha!
 
 Other than that, it's basically the best thing you can do. Get more fit, it's
 so fucking worth it!
@@ -364,9 +373,9 @@ I saw it again, but then the showing was open.
 
 We (Sam, Nikki and I) were the only couple at the showing. I signed up for the
 bidding, and I was the only one bidding. This is weird, but apparently they had
-tried to sell the place twice, but it fell through. It's hard to re-put
-a listing without buyers becoming suspicious, so there was a falloff for each
-failing sale.
+tried to sell the place twice, but it fell through both times. It's hard to
+re-put a listing without buyers becoming suspicious, and doing so twice was
+apparently pretty devastating.
 
 Since no one else bid, I won by default for the asking price. On October 24th
 I signed the contracts, paid the monies, and got the keys to the apartment.
@@ -375,7 +384,7 @@ I signed the contracts, paid the monies, and got the keys to the apartment.
 ##### And what a feeling it was.
 
 The apartment is 75 square meters and is located on the top floor of a building
-on top of a hill. We can basically see all of southern Stockholm from here.
+on top of a hill. We can basically see all of southern Stockholm from here!
 While the idea of being in debt isn't really super cool, it's totally worth it.
 This is a place I will own for quite a while. &lt;3
 
@@ -394,16 +403,16 @@ I have no extraordinary events to report from there actually, but I did realize
 something when I was there; I need to live in a culture that is not Swedish for
 a while. People are so different - they are open and sociable in ways that
 don't really exist here. I dunno, as I was walking down 6th ave and just saw
-life happen everywhere I just really got the feeling of... home.
+life happen everywhere I just really got a feeling of... home.
 
 Via Spotify I might actually be able to have means to do that given that we
-have US offices. I'll see what can be done!
+have US offices. I'll see what can be done! To be continued it shall!
 
 ---
 
 ## New Years is a blast
 
-In mid December I started to form the idea that I wanted New Years to be
+In late November I started to form the idea that I wanted New Years to be
 somewhat calm and that I wanted to cook a nice 3-course dinner for just a few
 of the closest lovelies. However, Sam got very excited and started inviting
 people left and right, and suddenly:
@@ -425,8 +434,8 @@ Notable events happening:
   finally just because I was drunk and I like the rush of getting people
   exciting and cheering. :D
 
-![Life of the party!](http://i.imgur.com/bub6H2R.jpg "Life of the party!")
-##### Life of the party!
+![Life of the party!](http://i.imgur.com/bub6H2R.jpg "Wizard's Hat of Charisma +5")
+##### Proudly sporting the Wizard's Hat of Charisma +5
 
 According to multiple witnesses, basically no one knew what I was on about
 during the last one, but it was exciting and fun, haha!
@@ -438,13 +447,14 @@ during the last one, but it was exciting and fun, haha!
 Being a Product Owner for a while, I've finally realized the power of having
 goals set. So, my ideas for 2015 are as follows:
 
-* Increase frequency of blogging by 9000. (I'm too hilarious to not share &lt;3)
-* Set some irredeemably bad software into exile.
+* Increase frequency of blogging by 9000. (I'm too hilarious to not blog &lt;3)
+* Send some irredeemably bad software into exile.
 * Create a software project that gets users outside of people I know.
 * Go live in another country.
 * Lose another 14kg (or more).
 * Start dancing at least two different kinds of dance.
 * Put a quarter of what I make into savings.
+* Learn trickier and tastier vegetarian dishes to cook.
 * Learn at least one new programming language, probably Go.
 * Start making paintings again.
 
@@ -455,10 +465,7 @@ a year.
 ---
 
 All in all, I'm glad everything happens so much even though it sometimes takes
-a toll. Thanks for being a part of it and making it worthwhile.
-&lt;3
-
-
+a toll. Thanks for being a part of it and making it worthwhile. &lt;3
 
 [last]: /posts/such-year-wow/
 [177]: /posts/177/
@@ -478,5 +485,6 @@ a toll. Thanks for being a part of it and making it worthwhile.
 [bigno]: http://tvtropes.org/pmwiki/pmwiki.php/Main/BigNo
 [got]: http://tvtropes.org/pmwiki/pmwiki.php/Series/GameOfThrones
 [horse_ebooks]: http://favstar.fm/users/horse_ebooks
+[reflect]: http://tvtropes.org/pmwiki/pmwiki.php/Main/DistractedByMyOwnSexy
 [cardiocrush]: https://plus.google.com/u/1/photos/109470464441227305887/albums/6098371506791030657
 [rousing]: http://tvtropes.org/pmwiki/pmwiki.php/Main/BalconySpeech
