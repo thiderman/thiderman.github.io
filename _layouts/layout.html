@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
   <meta charset="utf-8">
   <title>
@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="{{ site.name }}"/>
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:type" content="article"/>
-  <meta property="og:url" content="http://thiderman.org{{ page.url }}"/>
+  <meta property="og:url" content="http://thiderman.org{{ page.url }}/"/>
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
@@ -37,7 +37,7 @@
 <body>
   <section class="sidebar">
     <a href="/">
-      <img src="{{ site.gravatar_url }}?s=150" height="100" width="100" class="avatar" />
+      <img src="{{ site.gravatar_url }}?s=150" height="100" width="100" class="avatar" alt="avatar" />
     </a>
 
     <section class="name">
